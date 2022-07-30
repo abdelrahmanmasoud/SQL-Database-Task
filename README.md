@@ -29,7 +29,7 @@ Database task steps:
 Clike New Query, write First Query and execute it to see result 
 and do the same for every Query.
 
-#First Query
+First Query
 
 ![First Query](https://user-images.githubusercontent.com/93222041/181878828-5e81c55f-b91e-499d-a8a3-735353ede612.PNG)
 
@@ -37,7 +37,7 @@ and do the same for every Query.
 
 
 
-#Second Query
+Second Query
 
 
 ![SecondQuery](https://user-images.githubusercontent.com/93222041/181878891-f904c09c-8716-4e33-a8d6-efffbf563d2a.PNG)
@@ -46,7 +46,7 @@ and do the same for every Query.
 
 
 
-#Third Query
+Third Query
 
 
 ![ThirdQuery](https://user-images.githubusercontent.com/93222041/181878901-cb83b84c-697f-4ab0-9b8a-e14c2b0e8eee.PNG)
