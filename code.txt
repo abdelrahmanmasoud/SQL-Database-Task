@@ -1,0 +1,21 @@
+
+--FirstQuery
+select Beverage,Calories
+from dbo.drinkMenu
+where Calories=( select max (Calories)
+                 from dbo.drinkMenu )
+
+--SecondQuery
+Select Beverage_category, Round(AVG(Calories),2) As avgCalories
+FROM dbo.drinkMenu
+Group by Beverage_category
+
+--ThirdQuery
+Select  distinct Beverage
+FROM dbo.drinkMenu
+WHERE Calories < (Select AVG(Calories) FROM drinkMenu)
+
+
+
+ 
+
